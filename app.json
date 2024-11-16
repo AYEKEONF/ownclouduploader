@@ -4,7 +4,7 @@
   "repository": "https://github.com/ObisoftDev/ownclouduploader",
   "env": {
     "bot_token": {
-      "description": "El token del bot"
+      "description": "7626969601:AAEAgYcAIbW0o6QkZ8IGX21bHaHcbz6Ss0M"
     },
     "proxy_enc": {
       "description": "Proxy Encriptado",
